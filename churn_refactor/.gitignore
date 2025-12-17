@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+venv/
+
+# Data (keep raw data out of git)
+data/
+**/data/
+
+# Generated artifacts
+reports/
+**/reports/
